@@ -1,4 +1,7 @@
-/*This function is main
+#include <stdio.h>
+
+/**
+ * This function is main
  * and used to ptinting phrase
  * using puts
  * */

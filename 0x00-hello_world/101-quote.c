@@ -9,11 +9,11 @@
 
 int main(void)
 {
-	const char mg[];
+	const char mg;
 
-	mg[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	mg = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 
-	syscall(SYS_write, 1, msg, sizeof(msg));
+	syscall(SYS_write, 1, mg, sizeof(mg));
 
 	return (1);
 }

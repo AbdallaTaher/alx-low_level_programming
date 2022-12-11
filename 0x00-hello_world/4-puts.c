@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
+ * main - Entry point
  * This function is main
  * and used to ptinting phrase
  * using puts
+ * Return: Always 0 (Success)
  */
 
 int main(void)

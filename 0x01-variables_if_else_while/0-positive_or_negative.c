@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* main - Entry
+/**
+ * main - Entry
  * This function to check a random number
- * Return: Always 0 (Success) 
- */
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 {

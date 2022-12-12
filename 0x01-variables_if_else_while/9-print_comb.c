@@ -16,7 +16,7 @@ int main(void)
 		if (alpha != 9)
 		{
 			putchar(',');
-			putchar('\t');
+			putchar(' ');
 		}
 		else
 		{

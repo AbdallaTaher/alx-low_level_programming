@@ -9,11 +9,14 @@
 
 int main(void)
 {
-	char phrase[] = "_putchar";
-	for(int i = 0; i <= sizeof(phrase); i++)
-	{
-		putchar(i);
-	}
-	putchar('\n');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	-putchar('\n');
+
 	return (0);
 }

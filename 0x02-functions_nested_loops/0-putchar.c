@@ -7,7 +7,7 @@
  * Retun : Always 0 (Success)
  */
 
-int __main(void)__
+int main(char)
 {
 	_putchar('p');
 	_putchar('u');

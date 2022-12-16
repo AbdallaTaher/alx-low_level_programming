@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,7 +6,7 @@
  * Retun : Always 0 (Success)
  */
 
-int main(char)
+int main(void)
 {
 	_putchar('p');
 	_putchar('u');

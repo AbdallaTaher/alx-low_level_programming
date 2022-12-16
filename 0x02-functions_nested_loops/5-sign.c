@@ -9,6 +9,7 @@
 int print_sign(int n)
 {
 	int test;
+
 	if (n > 0)
 	{
 		_putchar('+');
@@ -24,5 +25,5 @@ int print_sign(int n)
 		_putchar('-');
 		test = -1;
 	}
-	return(test);
+	return (test);
 }

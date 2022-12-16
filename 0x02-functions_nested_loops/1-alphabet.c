@@ -3,7 +3,6 @@
 /**
  * main - Entry
  * print_alphabet :This project to print alphabets
- * Return:no return
 */
 
 void print_alphabet(void)

@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry
- * print_alphabet :This project to print alphabets
+ * print_alphabet -> This project to print alphabets in lower case
 */
 
 void print_alphabet(void)

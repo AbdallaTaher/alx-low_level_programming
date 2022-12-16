@@ -2,7 +2,7 @@
 
 /**
  * _islower -> checks letters for lowercase
- * c-> the test character
+ * @c: the test character
  * Return: 1 Success
  */
 

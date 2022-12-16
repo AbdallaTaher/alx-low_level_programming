@@ -2,7 +2,7 @@
 
 /**
  * main - Entry
- * This project to print alphabets
+ * print_alphabet: This project to print alphabets
  * Return:Always 0 (Success)
 */
 

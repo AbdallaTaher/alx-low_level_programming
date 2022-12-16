@@ -6,7 +6,7 @@
  * Return: 1 Success
  */
 
-int Print_sign(int n)
+int print_sign(int n)
 {
 	int test;
 	if (n > 0)

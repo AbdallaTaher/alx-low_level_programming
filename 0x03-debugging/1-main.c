@@ -18,9 +18,7 @@ int main(void)
  * {
  * putchar(i);
  * }
- * \\o/\n": the written word
 */
-
 	printf("Infinite loop avoided! \\o/\n");
 
 	return (0);

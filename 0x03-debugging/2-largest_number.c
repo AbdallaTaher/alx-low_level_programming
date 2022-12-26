@@ -5,7 +5,7 @@
  * @a: viriable
  * @b: variable
  * @c: variable
- * Return : leagest number
+ * Return: leagest number
  */
 
 int largest_number(int a, int b, int c)
@@ -16,7 +16,7 @@ int largest_number(int a, int b, int c)
 	{
 		largest = a;
 	}
-	else if(b > c && b > a)
+	else if (b > c && b > a)
 	{
 		largest = b;
 	}
@@ -28,5 +28,5 @@ int largest_number(int a, int b, int c)
 	{
 		largest = b;
 	}
-	return (largest); 
+	return (largest);
 }

@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * _strcat -> concatenates two strings
- * @dest: variable
- * @src: variable
+ * leet -> concatenates two strings
+ * @n: variable
  * Return: dest
  */
 
